@@ -1,5 +1,8 @@
 skl-talk
 ========
+
+### This repo is undergoing some major changes right now. Bear with me.
+
 This is the repo for my "A Beginner's Guide to Machine Learning with Scikit-Learn" talk, given at the PyData NYC 2013 conference.
 
 Video: http://vimeo.com/79517341
