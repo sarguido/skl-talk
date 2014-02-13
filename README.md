@@ -9,7 +9,7 @@ Scikit-learn is one of the most well-known machine learning Python modules. But 
 
 Materials:
 
-- Data preprocessing: http://nbviewer.ipython.org/gist/sarguido/742328
+- Data preprocessing: http://nbviewer.ipython.org/gist/sarguido/7423289
 - Supervised learning: http://nbviewer.ipython.org/gist/sarguido/8969870
 - Unsupervised learning: http://nbviewer.ipython.org/gist/sarguido/8969887
 - Testing and Validation: http://nbviewer.ipython.org/gist/sarguido/8969894
